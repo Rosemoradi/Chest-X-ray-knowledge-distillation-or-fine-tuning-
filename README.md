@@ -75,3 +75,8 @@ This approach was selected because it balances **interpretability**, **ease of i
 - Matplotlib & Seaborn for visualization
 
 ---
+
+👩‍💻 Author
+Razieh Moradi Graduate Student, McMaster University 📫 moradr1@mcmaster.ca
+
+
